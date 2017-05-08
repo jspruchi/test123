@@ -8,6 +8,8 @@ public class Demo {
 	public void test()
 	{
 		Reporter.log("hiiiiiiiii",true);
+		Reporter.log("byeeeeeeeeeeeee",true);
+		//this is a test file
 	}
 
 }
